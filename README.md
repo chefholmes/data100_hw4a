@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+
+
 
     <head>
         <meta charset="utf-8">
@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        <header>
+   
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -37,18 +37,16 @@
                     <h2>How do Netflix and Hulu compare?</h2>
                     <p>Here, we will look at programming on Netflix and Hulu from 2017-2021 using publicly available data from Kaggle, considering differences between them, but also the nature of the streaming landscape more generally over time. The original data sources are:<br> <li> Netflix:<a href=" https://www.kaggle.com/datasets/shivamb/netflix-shows"> https://www.kaggle.com/datasets/shivamb/netflix-shows</a> </li></p>
                     <li>Hulu:<a href="https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows"> https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows </a> </li></section></p>
-                    <p>We will explore the following questions:</p>
+                    We will explore the following questions:</p>
                 <ol>
                 <li>Are the origins of Netflix and Hulu represented by the proportions of movies to TV shows that they offer?</li>
                 <li>Since Hulu is only available in the US, is more of the content created in the US?</li>
                 <li>How did content offerings change during the pandemic period?</li>
                 </ol>
                 <p>Use the navigation at the top of the page to explore!</p>
-                </section>
+              
         </main>
         <footer>
             <p>Text and images created by Dana Willner for DATA 100. Web page created by Aidan Holmes.</p>
         </footer>
-    </body>
-
-</html>
+   
